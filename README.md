@@ -1,7 +1,11 @@
 Trabajo Práctico Integrador – Procesamiento de Lenguaje Natural con NLTK
+
 Nombre y apellido: Roxana Vanesa Ríos Morínigo y José Acosta
+
 Institución: INSTITUTO DE EDUCACIÓN SUPERIOR U.E.G.P. Nº 106
+
 Carrera: Tecnicatura Superior en Ciencia de Datos e IA
+
 Asignatura: Procesamiento de Lenguaje Natural
 
 Este repositorio contiene el desarrollo del Trabajo Práctico Integrador de Procesamiento de Lenguaje Natural (PLN), donde se implementó un pipeline completo de análisis de texto en Python sobre comentarios extraídos de YouTube.
